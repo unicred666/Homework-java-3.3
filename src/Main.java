@@ -1,6 +1,6 @@
 import java.text.DecimalFormat;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         CreditPaymentService service = new CreditPaymentService();
         DecimalFormat df = new DecimalFormat("###.##");
